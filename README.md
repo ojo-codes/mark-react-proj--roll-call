@@ -4,6 +4,11 @@
 
 > This is part of Academy's [technical curriculum for **The Mark**](https://github.com/WeAreAcademy/curriculum-mark). All parts of that curriculum, including this project, are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
+## Learning outcomes
+
+- Type the `props` received by a component
+- Use `props` destructuring
+
 ## Exercise 1: Adding characters
 
 > 🎯 **Success criterion:** You have added five characters
@@ -11,6 +16,8 @@
 The root `App` component renders three `Character`s.
 
 Add five more!
+
+(It is worth experiment with the restrictions placed on `props` by TypeScript.)
 
 ## Exercise 2: Prop destructuring
 
